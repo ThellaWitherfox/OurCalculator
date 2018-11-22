@@ -1,5 +1,5 @@
-public class OurCalculator {
-  public static void main(String[] args) {
-
+public class OurCalculator{
+  public static void main(String []args){
+//mjau!
   }
 }
